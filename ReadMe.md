@@ -30,3 +30,6 @@ Picture of the toy Program:
 
 #### Notes
 Currently available on Play Store for free download by "Bilik Toys".
+
+#### Google Play
+https://play.google.com/store/apps/details?id=kidtoys.az.kidphone
